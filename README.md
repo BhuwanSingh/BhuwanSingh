@@ -27,6 +27,8 @@ Skills: C / C++ / Python / HTML / CSS / React / JavaScript / Databases
 </a>
 
 <br/>
+<br/>
+<br/>
 <a href="https://github.com/BhuwanSingh">
   <img align="left" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=BhuwanSingh&theme=github_dark" />
 </a>
