@@ -1,6 +1,7 @@
 ### Hi there 👋, my name is **Bhuwan**
 #### I am a Student and a learning developer.
-![I am a Student and a learning developer.](https://cdn.pixabay.com/photo/2018/09/27/09/22/artificial-intelligence-3706562_960_720.jpg)
+<!-- ![I am a Student and a learning developer.](https://cdn.pixabay.com/photo/2018/09/27/09/22/artificial-intelligence-3706562_960_720.jpg) -->
+[![I am a Student and a learning developer.](https://i.postimg.cc/7LC46k1n/background-Made-with-Design-Cap.jpg)](https://postimg.cc/jWrmgBFD)
 
 I'm a student at NIT-Bhopal. I'm always looking forward to contribute and collaborate. Just trying to absorb much knowledge as possible for me. I can work on Mobile and Web technologies. Although there still are things that I haven't explored but I can work my way throught most of what is assigned to me.
 
