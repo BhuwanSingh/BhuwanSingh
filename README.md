@@ -59,9 +59,9 @@ I'm a software developer at Oracle, passionate about Mobile and Web technologies
 
 ---
 
-## 📈 Contribution Highlights
+## 🎉 GitHub Contributions
 
-![Metrics](https://metrics.lecoq.io/BhuwanSingh?template=classic&repositories=100&lines=1000&config.timezone=Asia%2FCalcutta)
+[![Bhuwan's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=BhuwanSingh&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
