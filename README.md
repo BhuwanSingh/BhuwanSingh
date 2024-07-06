@@ -61,7 +61,7 @@ I'm a software developer at Oracle, passionate about Mobile and Web technologies
 
 ---
 
-## 🎨 Fun Animation
+## 🎨 Oh it looks beautiful, isn't it?
 
 <div align="center">
   <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" alt="Animation" />
