@@ -1,6 +1,8 @@
 # Hi there 👋, I'm Bhuwan
 
-![Header](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
+<div align="center">
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="Header" />
+</div>
 
 I'm a software developer at Oracle, passionate about Mobile and Web technologies. I thrive on contributing and collaborating to learn and grow. 
 
@@ -59,9 +61,11 @@ I'm a software developer at Oracle, passionate about Mobile and Web technologies
 
 ---
 
-## 🎉 GitHub Contributions
+## 🎨 Fun Animation
 
-[![Bhuwan's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=BhuwanSingh&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<div align="center">
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" alt="Animation" />
+</div>
 
 ---
 
